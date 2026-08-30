@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minimumDeletions(vector<int>& nums) {
+        // approch kuch nahi he isme
        int mx=INT_MIN;
        int n=nums.size();
        int a=0;
